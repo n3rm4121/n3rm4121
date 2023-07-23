@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @n3rma1.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++.
-- 💞️ I’m looking to collaborate on any C/C++ projects
 - 📫 How to reach me 📧nirmaldhakal2032@gmail.com
 
 <!---

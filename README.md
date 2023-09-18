@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n3rma1.
+- 👋 Hi, I’m @n3rma121.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me 📧nirmaldhakal2032@gmail.com

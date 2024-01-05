@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n3rma121.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ and DSA.
 - 📫 How to reach me 📧nirmaldhakal2032@gmail.com
 
 <!---

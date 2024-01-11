@@ -5,12 +5,17 @@
   <a href="https://twitter.com/n3rmaldhakal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/n3rmaldhakal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
+Hi, I'm a Computer Engineering Student 🚀 from Nepal. I have always had a passion for Programming. Currently learning Javscript language after using C,C++. Beside's programming, I enjoy playing basketball🏀 and traveling.
 
-- 👋 Hi, I’m @n3rma121.
-- 😎 Introvert personality but extremely funny.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+- 👋 Hi, I’m @n3rma121
+- 😎 Introvert personality but extremely funny
+- 🌎 I addicted to learning and growing every day
+- ⚡ I love math and programming
+- 💬 Ask me about 👉 Anything
 - 😊 Comfortable with C++.
-- 🌱 I’m currently learning Javascript and DSA in C++.
-- 📫 How to reach me 📧nirmaldhakal2032@gmail.com
+- 🌱 I’m currently learning Javascript and DSA in C++
 - 😄 Pronouns: 👉 He/Him
 
 ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rma121&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/n3rma121">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rma121&layout=compact&theme=dark)](https://github.com/n3rma121)</a>
@@ -31,7 +36,6 @@
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 👨 **Profile Stat**
 

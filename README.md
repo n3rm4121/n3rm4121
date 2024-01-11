@@ -5,7 +5,7 @@
   <a href="https://twitter.com/n3rmaldhakal"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/n3rmaldhakal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
-Hi, I'm a Computer Engineering Student 🚀 from Nepal. I have always had a passion for Programming. Currently learning Javscript language after using C,C++. Beside's programming, I enjoy playing basketball🏀 and traveling.
+Hi, I'm a Computer Engineering Student 🚀 from Nepal. I have always had a passion for Programming. Currently learning Javascript after working with C, C++. Besides programming, I enjoy playing basketball🏀 and traveling.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 

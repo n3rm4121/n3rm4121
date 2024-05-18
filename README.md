@@ -9,7 +9,7 @@ Hi, I'm a Computer Engineering Student 🚀 from Nepal. I have always had a pass
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 👋 Hi, I’m @n3rma121
+- 👋 Hi, I’m @n3rm4121
 - 😎 Introvert personality but extremely funny
 - 🌎 I addicted to learning and growing every day
 - ⚡ I love math and programming
@@ -18,9 +18,9 @@ Hi, I'm a Computer Engineering Student 🚀 from Nepal. I have always had a pass
 - 🌱 I’m currently learning Javascript and DSA in C++
 - 😄 Pronouns: 👉 He/Him
 
-![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rma121&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rma121&layout=compact&theme=dark)](https://github.com/n3rma121)</a>
-<a href="https://github.com/n3rma121?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=n3rma121&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="n3rma121's github-readme-streak-stats"/></a>
+![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rm4121&layout=compact&theme=dark)](https://github.com/n3rm4121)</a>
+<a href="https://github.com/n3rm4121?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=n3rm4121&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="n3rm4121's github-readme-streak-stats"/></a>
 
 ## 😜Here's a Joke for you:
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -40,7 +40,7 @@ Hi, I'm a Computer Engineering Student 🚀 from Nepal. I have always had a pass
 
 👨 **Profile Stat**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n3rma121&label=Visitors&color=0e75b6&style=flat" alt="nirmaldhakal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n3rm4121&label=Visitors&color=0e75b6&style=flat" alt="nirmaldhakal" /> </p>
 
 
 

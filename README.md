@@ -15,7 +15,7 @@ Hi, I'm Nirmal 🚀 from Nepal. I have always had a passion for Programming. Cur
 - ⚡ I love math and programming
 - 💬 Ask me about 👉 Anything
 - 😊 Comfortable with C++.
-- 🌱 I’m currently learning Javascript and DSA in C++
+- 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: 👉 He/Him
 
 ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)

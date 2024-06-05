@@ -24,12 +24,9 @@ Hi, I'm Nirmal 🚀 from Nepal. I have always had a passion for Programming. Cur
 
 ## 😜Here's a Joke for you:
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<h3 align="left">Languages and Tools:</h3>
 
-- <h3 align="left">Languages and Tools:</h3>
-<div align="left">
-	
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,qt,react,git,github,mint)](https://skillicons.dev)
-</div>
 
 <br> <br>
 

@@ -19,7 +19,8 @@ Hi, I'm Nirmal. I have always had a passion for Programming. Currently learning 
 
 ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rm4121&layout=compact&theme=dark)](https://github.com/n3rm4121)</a>
-<a href="https://github.com/n3rm4121?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=n3rm4121&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="n3rm4121's github-readme-streak-stats"/></a>
+<!-- <a href="https://github.com/n3rm4121?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=n3rm4121&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="n3rm4121's github-readme-streak-stats"/></a>
+-->
 
 ## 😜Here's a Joke for you:
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

@@ -26,7 +26,7 @@ Hi, I'm Nirmal. I have always had a passion for Programming. Currently learning 
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,qt,react,git,github,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,c,qt,mongodb,express,react,nodejs,git,github,mint)](https://skillicons.dev)
 
 <br> <br>
 

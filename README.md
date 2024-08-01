@@ -9,11 +9,8 @@ Hi, I'm Nirmal. I have always had a passion for Programming. Currently learning 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 👋 Hi, I’m @n3rm4121
-- 😎 Introvert personality but extremely funny
 - 🌎 I addicted to learning and growing every day
 - ⚡ I love math and programming
-- 💬 Ask me about 👉 Anything
-- 😊 Comfortable with C++.
 - 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: 👉 He/Him
 

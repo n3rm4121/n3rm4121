@@ -1,18 +1,8 @@
-Hi, I'm Nirmal. I have always had a passion for Programming. Currently learning MERN Stack. Besides programming, I enjoy playing basketball 🏀 and traveling.
-
 <p>
     <a href="mailto:nirmaldhakal2032@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://twitter.com/n3rma121"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/n3rma121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-- 👋 Hi, I’m @n3rm4121
-- 🌎 I addicted to learning and growing every day
-- ⚡ I love math and programming
-- 🌱 I’m currently learning MERN stack
-- 😄 Pronouns: 👉 He/Him
 
 ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rm4121&layout=compact&theme=dark)](https://github.com/n3rm4121)</a>

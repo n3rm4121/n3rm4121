@@ -3,6 +3,13 @@
   <a href="https://twitter.com/n3rma121"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/n3rma121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
+<hr>
+
+Hi, I am **Nirmal Dhakal**. <br>
+- I am currently building [clientwords.com](https://clientwords.com). <br>
+- **ClientWords** is a platform that helps you collect and showcase **testimonials** by embedding **love gallery** in you own website.
+
+<hr>
 
 ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rm4121&layout=compact&theme=dark)](https://github.com/n3rm4121)</a>

@@ -3,9 +3,9 @@
   <a href="https://twitter.com/n3rma121"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/n3rma121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
-<hr>
 
-Hi, I am **Nirmal Dhakal**. <br>
+<h1>Hi, I am Nirmal Dhakal </h1>
+
 - I am currently building [clientwords.com](https://clientwords.com). <br>
 - **ClientWords** is a platform that helps you collect and showcase **testimonials** by embedding **love gallery** in you own website.
 

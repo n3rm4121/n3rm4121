@@ -17,9 +17,7 @@
 
 ## 😜Here's a Joke for you:
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<h3 align="left">Languages and Tools:</h3>
 
-<br> 
 
 👨 **Profile Stat**
 

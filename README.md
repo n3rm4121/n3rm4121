@@ -8,7 +8,7 @@
 
 - I am currently building [clientwords.com](https://clientwords.com). <br>
 - **ClientWords** is a platform that helps you collect and showcase **testimonials** by embedding **love gallery** in you own website.
-- Latest Project:  [vibeplayer.vercel.app](https://vibeplayer.vercel.app). Play music videos based on your vibe.
+- Latest Project:  [moodxmusic.vercel.app](https://moodxmusic.vercel.app). Play music videos based on your mood.
 
 <hr>
 

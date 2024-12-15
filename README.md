@@ -6,11 +6,10 @@
 
 <h1>Hi, I am Nirmal Dhakal </h1>
 
-- I am currently building [clientwords.com](https://clientwords.com). <br>
-- **ClientWords** is a platform that helps you collect and showcase **testimonials** by embedding **love gallery** in you own website.
-- Latest Project:  [moodxmusic.vercel.app](https://moodxmusic.vercel.app). Play music videos based on your mood.
+[clientwords.com](https://clientwords.com)- Collect, Manage and Showcase your client's testimonails in your website. <br>
+[moodxmusic.vercel.app](https://moodxmusic.vercel.app). Play music videos based on your mood.
 
-<hr>
+
 
 ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rm4121&layout=compact&theme=dark)](https://github.com/n3rm4121)</a>

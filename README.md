@@ -7,7 +7,7 @@
 <h1>Hi, I am Nirmal Dhakal </h1>
 
 [clientwords.com](https://clientwords.com)- Collect, Manage and Showcase your client's testimonails in your website. <br>
-[moodxmusic.vercel.app](https://moodxmusic.vercel.app). Play music videos based on your mood.
+[mood2music](https://mood2music.nirmaldhakal.xyz) - Play music videos based on your mood.
 
 
 

@@ -4,11 +4,12 @@
   <a href="https://www.linkedin.com/in/n3rma121/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
-<h1>Hi, I am Nirmal Dhakal </h1>
+<h1>Hi, I'm Nirmal Dhakal </h1>
 
-[clientwords.com](https://clientwords.com)- Collect, Manage and Showcase your client's testimonails in your website. <br>
-[mood2music](https://mood2music.nirmaldhakal.xyz) - Play music videos based on your mood.
-
+- Ask me about Web Development and Software Engineering.
+- I sometimes write [blogs](https://nirmaldhakal.xyz/blog).
+- I love to build and work on innovative projects.
+- I'm always down to collab. Feel free to <a href="mailto:hi@nirmaldhakal.xyz">email</a> me of ping me on social media.
 
 
 ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)

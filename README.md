@@ -9,7 +9,7 @@
 - Ask me about Web Development and Software Engineering.
 - I sometimes write [blogs](https://nirmaldhakal.xyz/blog).
 - I love to build and work on innovative projects.
-- I'm always down to collab. Feel free to <a href="mailto:hi@nirmaldhakal.xyz">email</a> me of ping me on social media.
+- I'm always down to collab. Feel free to <a href="mailto:hi@nirmaldhakal.xyz">email</a> me or ping me on social media.
 
 
 ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)

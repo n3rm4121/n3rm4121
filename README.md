@@ -6,7 +6,6 @@
 
 <h1>Hi, I'm Nirmal Dhakal </h1>
 
-- Ask me about Web Development and Software Engineering.
 - I sometimes write [blogs](https://nirmaldhakal.xyz/blog).
 - I love to build and work on innovative projects.
 - I'm always down to collab. Feel free to <a href="mailto:hi@nirmaldhakal.xyz">email</a> me or ping me on social media.

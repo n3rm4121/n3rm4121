@@ -11,9 +11,8 @@
 - I'm always down to collab. Feel free to <a href="mailto:hi@nirmaldhakal.xyz">email</a> me or ping me on social media.
 - I'm currently working on side project: <a href="https://mentornepal.com">MentorNepal</a>
 
-
-![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=n3rm4121&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3rm4121&layout=compact&theme=dark)](https://github.com/n3rm4121)</a>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=n3rm4121&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=n3rm4121&layout=compact&theme=radical)
 
 ## 😜Here's a Joke for you:
 <img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />

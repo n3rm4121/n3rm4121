@@ -9,7 +9,6 @@
 - I sometimes write [blogs](https://nirmalcodes.com/blog).
 - I love to build and work on innovative projects.
 - I'm always down to collab. Feel free to <a href="mailto:hi@nirmaldhakal.xyz">email</a> me or ping me on social media.
-- I'm currently working on side project: <a href="https://mentornepal.com">MentorNepal</a>
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=n3rm4121&show_icons=true&theme=dark)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=n3rm4121&layout=compact&theme=radical)
